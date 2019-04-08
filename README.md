@@ -1,3 +1,5 @@
+本项目介绍来自于：.NET Core下开源任务调度框架Hangfire的Api任务拓展(支持秒级任务)（https://www.cnblogs.com/gnsilence/archive/2019/04/08/10665951.html）
+
 使用说明
 ====
 1.数据库配置，sqlserver ,redis，mysql只需要在config中配置连接，就可以直接跑起来添加任务运行，
